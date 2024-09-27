@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: rgb(175, 240, 78);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+button{
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: rgb(162, 180, 235);
+    border-radius: 5%;
+    height: 10vb;
+    align-items: center;
+    justify-content: center;
+}
+    
